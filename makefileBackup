@@ -1,0 +1,20 @@
+#Utilizzo il carattere @ per far si che stampi solo la stringa
+help: 
+	@echo "Ciao" 
+BACKUPFOLDER=$(FOLDER).bak
+backup: 
+	echo 
+	rm -rf BACKUPFOLDER
+	cp -r $(FOLDER) $(BACKUPFOLDER)
+	echo "Backup Completato in $(BACKUPFOLDER)"
+restore:
+	rm -rf $(FOLDER)
+	cp -r $(BACKUPFOLDER) $(FOLDER)
+	echo "Dati Ripristinati con successo"
+
+
+	
+
+
+	
+	
