@@ -1,0 +1,10 @@
+a.out
+es1.c
+es2.c
+es3.c
+log.txt
+makebinary.c
+p1
+p2
+temp.txt
+      0       0       0

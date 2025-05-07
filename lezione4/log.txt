@@ -1,0 +1,8 @@
+File di log
+Sono il secondo processo 
+Sono il primo processo 
+Sono il Padre, tutti i miei figli hanno terminato. Per evitare incomprensioni il mio PId è: 29537
+File di log
+Sono il Padre, tutti i miei figli hanno terminato. Per evitare incomprensioni il mio PId è: 56607
+File di log
+Sono il Padre, tutti i miei figli hanno terminato. Per evitare incomprensioni il mio PId è: 57182
