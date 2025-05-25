@@ -34,7 +34,7 @@ int main(int argc, char const *argv[])
         {
             printf("Recived Message:\n \t Priority: %d | \t Message: %s\n",(int)message.mtype, (char*) message.mPayload);
         }else{
-            printf("No message with priority %d\n",i);
+            printf("No message with priority in the queue %d\n",i);
         }
         
     }
