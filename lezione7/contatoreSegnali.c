@@ -59,7 +59,7 @@ int main(int argc, char const *argv[])
     {
         perror("Error in sigacrion USR1");
     }
-       if (sigaction(SIGUSR2, &sa1, NULL) == -1)
+    if (sigaction(SIGUSR2, &sa1, NULL) == -1)
     {
         perror("Error in sigacrion USR2");
     }
