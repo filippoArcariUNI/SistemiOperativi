@@ -1,0 +1,3 @@
+kill 10 24954
+queue 20 ciao
+fifo nome parola
